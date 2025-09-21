@@ -1,6 +1,8 @@
 # codewars
-My solutions to several codewars problems!
+<img width="400" height="40" alt="image" src="https://github.com/user-attachments/assets/c6ea2459-321d-4f20-9e8c-a84568329f0e" />
 
+My solutions to several codewars problems!
+Working on my way to 5 kata badge
 # Problems
 1. [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
 2. [Pete, the baker](https://www.codewars.com/kata/525c65e51bf619685c000059)
